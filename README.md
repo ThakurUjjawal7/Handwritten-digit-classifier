@@ -130,16 +130,6 @@ To retrain or modify the model, refer to `Model_Training/Main_Model.ipynb`. This
 **Issue**: Predictions are inaccurate
 - **Solution**: Ensure digits are drawn clearly and fill most of the canvas
 
-## 📄 License
-
-This project is licensed under the terms specified in the [LICENSE](LICENSE) file.
-
-## 👨‍💻 Author
-
-**Thakur Ujjawal**
-
-GitHub: [@ThakurUjjawal7](https://github.com/ThakurUjjawal7)
-
 ## 🙏 Acknowledgments
 
 - MNIST dataset providers
